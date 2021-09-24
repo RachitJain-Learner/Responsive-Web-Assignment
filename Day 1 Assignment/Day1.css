@@ -6,7 +6,7 @@
 .container{
     width: 100% ;
     background-color: black;
-    /*display : inline-block;*/
+    display : inline-block;
 }
 
 .card{
